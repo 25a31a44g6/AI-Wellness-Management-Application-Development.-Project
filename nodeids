@@ -1,0 +1,9 @@
+[
+  "tests/test_database.py::test_foods_table_seeded",
+  "tests/test_database.py::test_meal_plan_and_items",
+  "tests/test_database.py::test_user_profile_seeded",
+  "tests/test_e2e_flow.py::test_full_system_flow",
+  "tests/test_nutrition.py::test_daily_estimated_targets",
+  "tests/test_nutrition.py::test_deterministic_macro_calculations",
+  "tests/test_nutrition.py::test_food_nutrition_breakdown"
+]

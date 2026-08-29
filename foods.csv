@@ -1,0 +1,36 @@
+food_id,name,category,standard_unit,raw_weight_unit_g,edible_weight_ratio,calories_per_100g,protein_per_100g,carbohydrates_per_100g,fat_per_100g,fiber_per_100g,serving_desc,prep_type,allergens
+food_001,Rolled Oats,Grains,g,1.0,1.0,389.0,16.9,66.3,6.9,10.6,50g raw serving,raw,none
+food_002,Brown Rice,Grains,g,1.0,1.0,362.0,7.5,76.2,2.7,3.4,60g raw serving,raw,none
+food_003,White Rice (Basmati),Grains,g,1.0,1.0,356.0,6.8,78.2,0.6,1.3,60g raw serving,raw,none
+food_004,Quinoa,Grains,g,1.0,1.0,368.0,14.1,64.2,6.1,7.0,50g raw serving,raw,none
+food_005,Whole Wheat Roti/Flour,Grains,g,1.0,1.0,340.0,13.2,72.0,2.5,10.7,35g per roti,raw,gluten
+food_006,Yellow Moong Dal (Lentils),Pulses,g,1.0,1.0,347.0,24.0,59.8,1.2,8.2,40g raw serving,raw,none
+food_007,Chickpeas (Kabuli Chana),Pulses,g,1.0,1.0,364.0,19.3,60.6,6.0,17.4,50g raw serving,raw,none
+food_008,Kidney Beans (Rajma),Pulses,g,1.0,1.0,333.0,24.0,60.0,0.8,24.9,50g raw serving,raw,none
+food_009,Black Lentils (Urad Dal),Pulses,g,1.0,1.0,341.0,25.2,58.9,1.6,18.3,40g raw serving,raw,none
+food_010,Green Gram (Sprouted Moong),Pulses,g,1.0,1.0,105.0,7.0,19.0,0.4,7.6,100g fresh sprouts,ready-to-eat,none
+food_011,Tofu (Firm),Plant Protein,g,1.0,1.0,144.0,15.8,2.8,8.7,2.3,100g block,ready-to-eat,soy
+food_012,Paneer (Cottage Cheese),Dairy,g,1.0,1.0,265.0,18.3,3.6,20.8,0.0,80g cubes,ready-to-eat,dairy
+food_013,Cow Milk (Low Fat),Dairy,ml,1.03,1.0,42.0,3.4,4.8,1.0,0.0,200ml glass,ready-to-eat,dairy
+food_014,Greek Yogurt (Plain/Unsweetened),Dairy,g,1.0,1.0,59.0,10.0,3.6,0.4,0.0,150g cup,ready-to-eat,dairy
+food_015,Whole Egg (Boiled/Raw),Poultry,piece,50.0,1.0,143.0,12.6,0.7,9.5,0.0,1 large egg (50g),ready-to-eat,egg
+food_016,Egg White,Poultry,piece,33.0,1.0,52.0,10.9,0.7,0.2,0.0,1 egg white (33g),ready-to-eat,egg
+food_017,Chicken Breast (Boneless/Skinless),Poultry,g,1.0,1.0,165.0,31.0,0.0,3.6,0.0,120g raw fillet,raw,none
+food_018,Salmon Fillet,Seafood,g,1.0,1.0,208.0,20.4,0.0,13.4,0.0,120g fillet,raw,fish
+food_019,Almonds (Raw),Nuts & Seeds,g,1.0,1.0,579.0,21.2,21.6,49.9,12.5,15g (10-12 nuts),ready-to-eat,tree-nuts
+food_020,Walnuts,Nuts & Seeds,g,1.0,1.0,654.0,15.2,13.7,65.2,6.7,15g (5-6 halves),ready-to-eat,tree-nuts
+food_021,Chia Seeds,Nuts & Seeds,g,1.0,1.0,486.0,16.5,42.1,30.7,34.4,10g (1 tbsp),ready-to-eat,none
+food_022,Peanut Butter (Unsweetened),Nuts & Seeds,g,1.0,1.0,588.0,25.0,20.0,50.0,6.0,20g (1 tbsp),ready-to-eat,peanuts
+food_023,Banana,Fruits,piece,118.0,0.75,89.0,1.1,22.8,0.3,2.6,1 medium banana (118g),ready-to-eat,none
+food_024,Apple,Fruits,piece,150.0,0.9,52.0,0.3,13.8,0.2,2.4,1 medium apple (150g),ready-to-eat,none
+food_025,Papaya,Fruits,g,1.0,0.8,43.0,0.5,10.8,0.3,1.7,150g bowl,ready-to-eat,none
+food_026,Blueberries,Fruits,g,1.0,1.0,57.0,0.7,14.5,0.3,2.4,80g bowl,ready-to-eat,none
+food_027,Spinach (Palak),Vegetables,g,1.0,0.95,23.0,2.9,3.6,0.4,2.2,100g raw leaves,raw,none
+food_028,Broccoli,Vegetables,g,1.0,0.85,34.0,2.8,6.6,0.4,2.6,100g florets,raw,none
+food_029,Carrot,Vegetables,g,1.0,0.9,41.0,0.9,9.6,0.2,2.8,80g medium carrot,raw,none
+food_030,Cucumber,Vegetables,g,1.0,0.95,15.0,0.7,3.6,0.1,0.5,100g sliced,ready-to-eat,none
+food_031,Mixed Salad Greens,Vegetables,g,1.0,1.0,17.0,1.5,3.0,0.2,1.8,80g bowl,ready-to-eat,none
+food_032,Whey Protein Isolate,Supplements,scoop,30.0,1.0,370.0,80.0,3.0,1.0,0.0,1 scoop (30g),ready-to-eat,dairy
+food_033,Plant Protein Blend,Supplements,scoop,33.0,1.0,360.0,72.0,6.0,2.5,4.0,1 scoop (33g),ready-to-eat,none
+food_034,Peanuts (Roasted),Nuts & Seeds,g,1.0,1.0,567.0,25.8,16.1,49.2,8.5,30g snack,ready-to-eat,peanuts
+food_035,Soy Chunks (Textured Soy),Plant Protein,g,1.0,1.0,345.0,52.0,33.0,0.5,13.0,30g raw chunks,raw,soy
